@@ -1,4 +1,5 @@
 ### h! 4m b00m
+![0736b's github stats](https://github-readme-stats.vercel.app/api?username=0736b)
 ![](fly.gif)
 <!--
 **0736b/0736b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
