@@ -14,7 +14,7 @@ Skills: C++ / JAVA / React / Express.js / Typescript / Node.js / HTML&CSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0736b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomcc.svg' alt='adobelightroomcc' height='40'>](b)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0736b)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](https://github.com/0736b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomcc.svg' alt='adobelightroomcc' height='40'>](https://github.com/0736b/)  [<img src='https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png' alt='opensea.io' height='40'>](https://opensea.io/collection/generativeworm)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
