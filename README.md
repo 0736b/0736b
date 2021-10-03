@@ -10,7 +10,7 @@
 ### Hi there 👋, my name is Boom
 I am Computer Engineering student.
 
-Skills: C++ / JAVA / React / Express.js / Typescript / Node.js / HTML&CSS
+Rookie: C++ / JAVA / React / Express.js / Typescript / Node.js / HTML&CSS
 
 
 
@@ -18,6 +18,6 @@ Skills: C++ / JAVA / React / Express.js / Typescript / Node.js / HTML&CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/0736b)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/0736b)   -->
 
 ![Profile views](https://gpvc.arturio.dev/0736b)  
