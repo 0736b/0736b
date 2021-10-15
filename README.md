@@ -7,8 +7,8 @@
 ![](vtec.gif) -->
 
 
-<!-- ### Hi there 👋, my name is Boom -->
-I am Computer Engineering student.
+<!-- ### Hi there 👋, my name is Boom --> 
+![header](https://capsule-render.vercel.app/api?type=slice&color=000000&height=100&section=header&text=Hi%20there%20👋,%20my%20name%20is%20Boom&fontSize=24&animation=twinkling&fontColor=ffffff&fontAlign=77&rotate=6.5&fontAlignY=30)<br>I am Computer Engineering student.
 #### Tools & Languages: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/0736b/)   [<img src='https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg' alt='vscode' height='20'>](https://code.visualstudio.com)  [<img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg' alt='nodejs' height='20'>](https://nodejs.org/en/) [<img src='https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg' alt='npm' height='20'>](https://www.npmjs.com)  [<img src='https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg' alt='yarn' height='20'>](https://yarnpkg.com)
 
