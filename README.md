@@ -8,7 +8,7 @@
 
 
 <!-- ### Hi there 👋, my name is Boom --> 
-![header](https://capsule-render.vercel.app/api?type=slice&color=151515&height=75&section=header&text=Hi%20there!,%20my%20name%20is%20Boom&fontSize=21&animation=twinkling&fontColor=ffffff&fontAlign=80&rotate=5&fontAlignY=34)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=151515&height=75&section=header&text=Hi%20there!,%20my%20name%20is%20Boom&fontSize=21&animation=twinkling&fontColor=ffffff&fontAlign=80&rotate=5&fontAlignY=34) -->
 <!-- <br>I am Computer Engineering student. -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&animation=blinking&height=16&section=header&text=I%20am%20Computer%20Engineering%20student.&fontColor=000000&fontSize=16&)
 
@@ -21,7 +21,7 @@
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg' alt='processing4' height='28'>](https://processing.org)  [<img src='https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png' alt='opensea.io' height='28'>](https://opensea.io/collection/generativeworm)  
 <!-- ###### Please be patient. New Coder -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&layout=compact&theme=dark&hide_title=false&custom_title=Please%20be%20patient.%20New%20Coder)](https://github.com/anuraghazra/github-readme-stats)
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=151515&height=50)
+<!-- ![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=151515&height=50) -->
 <!-- ![GitHub metrics](https://metrics.lecoq.io/0736b)   -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/0736b)   -->
