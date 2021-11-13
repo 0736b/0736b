@@ -9,9 +9,9 @@
 
 <!-- ### Hi there 👋, my name is Boom --> 
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=151515&height=75&section=header&text=Hi%20there!,%20my%20name%20is%20Boom&fontSize=21&animation=twinkling&fontColor=ffffff&fontAlign=80&rotate=5&fontAlignY=34) -->
-<p align="center">
+<!-- <p align="center">
 𝙄 𝙖𝙢 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙨𝙩𝙪𝙙𝙚𝙣𝙩.
-</p>
+</p> -->
 
 <!-- #### 𝙏𝙤𝙤𝙡𝙨 & 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨:
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='28'>](https://github.com/0736b/)  [<img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' alt='heroku' height='28'>](https://heroku.com)   [<img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt='vscode' height='28'>](https://code.visualstudio.com)  [<img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='nodejs' height='28'>](https://nodejs.org/en/) [<img src='https://img.shields.io/badge/NPM-A4373A?style=for-the-badge&logo=npm&logoColor=white' alt='npm' height='28'>](https://www.npmjs.com)  [<img src='https://img.shields.io/badge/YARN-3955A3?style=for-the-badge&logo=yarn&logoColor=white' alt='yarn' height='28'>](https://yarnpkg.com)
