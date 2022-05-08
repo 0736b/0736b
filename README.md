@@ -23,7 +23,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&layout=compact&theme=dark&hide_title=false&custom_title=Please%20be%20patient.%20New%20Coder)](https://github.com/0736b/) -->
 <p align="center">
-  <img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด">
+  <img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด">
 </p>
 
 <!-- ![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=151515&height=50) -->
