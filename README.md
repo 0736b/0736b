@@ -22,10 +22,24 @@
 <!-- ###### Please be patient. New Coder -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&layout=compact&theme=dark&hide_title=false&custom_title=Please%20be%20patient.%20New%20Coder)](https://github.com/0736b/) -->
-<p align="center">
-  <img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด">
-</p>
 
+<pre>
+<samp>
+<kbd>boom@Re-PC:/0736b$</kbd> readmefetch
+</samp>
+<p align="">
+ ▄▄▄▄    ▒█████   ▒█████   ███▄ ▄███▓     <samp>0736b@github</samp>
+▓█████▄ ▒██▒  ██▒▒██▒  ██▒▓██▒▀█▀ ██▒     <samp>------------</samp>
+▒██▒ ▄██▒██░  ██▒▒██░  ██▒▓██    ▓██░     <samp>Country: Thailand</samp>
+▒██░█▀  ▒██   ██░▒██   ██░▒██    ▒██      <samp>Study: Computer Engineering</samp>
+░▓█  ▀█▓░ ████▓▒░░ ████▓▒░▒██▒   ░██▒     <samp>Languages: C++, Python, Java, JavaScript</samp>
+░▒▓███▀▒░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░   ░  ░     <samp>Frameworks: React, Laravel</samp>
+▒░▒   ░   ░ ▒ ▒░   ░ ▒ ▒░ ░  ░      ░     <samp>Interests: Game Hacking, Reverse Engineering, Windows Internals</samp>
+ ░    ░ ░ ░ ░ ▒  ░ ░ ░ ▒  ░      ░        <samp>Hobbies: Gaming, Cinematic Photography, Photoshopping</samp>
+ ░          ░ ░      ░ ░         ░        <samp></samp>
+      ░                                   <samp>-------------------Github-Top-Langs-------------------</samp></p><p align="center"><img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p>
+<kbd>boom@Re-PC:/0736b$</kbd> █
+</pre>
 <!-- ![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=151515&height=50) -->
 <!-- ![GitHub metrics](https://metrics.lecoq.io/0736b)   -->
 
