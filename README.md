@@ -34,7 +34,7 @@
 ▒██░█▀  ▒██   ██░▒██   ██░▒██    ▒██      <samp>Study: Computer Engineering</samp>
 ░▓█  ▀█▓░ ████▓▒░░ ████▓▒░▒██▒   ░██▒     <samp>Languages: C++, Python, Java, JavaScript</samp>
 ░▒▓███▀▒░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░   ░  ░     <samp>Frameworks: React, Laravel</samp>
-▒░▒   ░   ░ ▒ ▒░   ░ ▒ ▒░ ░  ░      ░     <samp>Interests: Game Hacking, Reverse Engineering, Windows Internals</samp>
+▒░▒   ░   ░ ▒ ▒░   ░ ▒ ▒░ ░  ░      ░     <samp>Interests: Game Hacking, Reverse Engineering, Windows Internals, Web Development</samp>
  ░    ░ ░ ░ ░ ▒  ░ ░ ░ ▒  ░      ░        <samp>Hobbies: Gaming, Cinematic Photography, Photoshopping</samp>
  ░          ░ ░      ░ ░         ░        
       ░                                   </p><p align="center"><img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p>
