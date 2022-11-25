@@ -37,7 +37,7 @@
 ▒░▒   ░   ░ ▒ ▒░   ░ ▒ ▒░ ░  ░      ░     <samp>Interests: Game Hacking, Reverse Engineering, Windows Internals</samp>
  ░    ░ ░ ░ ░ ▒  ░ ░ ░ ▒  ░      ░        <samp>Hobbies: Gaming, Cinematic Photography, Photoshopping</samp>
  ░          ░ ░      ░ ░         ░        
-<!--       ░                                   <samp>-------------------Github-Top-Langs-------------------</samp></p><p align="center"><img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p> -->
+      ░                                   </p><p align="center"><img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p>
 <!-- <kbd>boom@Re-PC:/0736b$</kbd> █ -->
 </pre>
 <!-- ![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=151515&height=50) -->
