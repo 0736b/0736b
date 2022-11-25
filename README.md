@@ -32,7 +32,7 @@
 ▓█████▄ ▒██▒  ██▒▒██▒  ██▒▓██▒▀█▀ ██▒     <samp>------------</samp>
 ▒██▒ ▄██▒██░  ██▒▒██░  ██▒▓██    ▓██░     <samp>Country: Thailand</samp>
 ▒██░█▀  ▒██   ██░▒██   ██░▒██    ▒██      <samp>Study: Computer Engineering</samp>
-░▓█  ▀█▓░ ████▓▒░░ ████▓▒░▒██▒   ░██▒     <samp>Languages: C++, Python, Java, JavaScript</samp>
+░▓█  ▀█▓░ ████▓▒░░ ████▓▒░▒██▒   ░██▒     <samp>Languages: C++, Python, Java, JavaScript, SQL</samp>
 ░▒▓███▀▒░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░   ░  ░     <samp>Frameworks: React, Laravel</samp>
 ▒░▒   ░   ░ ▒ ▒░   ░ ▒ ▒░ ░  ░      ░     <samp>Interests: Game Hacking, Reverse Engineering, Windows Internals, Web Development</samp>
  ░    ░ ░ ░ ░ ▒  ░ ░ ░ ▒  ░      ░        <samp>Hobbies: Gaming, Cinematic Photography, Photoshopping</samp>
