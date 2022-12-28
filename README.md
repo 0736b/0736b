@@ -1,3 +1,13 @@
+<div align="center">
+ <h2><b>Hello! I'm <a href="https://0736b.github.io" target="_blank">Thanawat Bumpengpun</a></b></h2>
+ <p>A year three <b>computer engineering student</b> at <b>Chiang Mai University</b>.</p>
+ <p>I love <b>developing software</b> that makes life easier. Love the <b>aesthetics</b> of the <b>user interface</b> and <b>great user experience</b>.<br> In my free time, I also like to <b>reverse engineer software</b> to study how it works.</p>
+</div>
+
+<p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p>
+<div align="center">
+ <p><b>see more</b> @ <a href="https://0736b.github.io"><b>0736b.github.io</b></a></p>
+</div>
 <!-- ![](cat.gif) -->
 
 <!--
@@ -23,11 +33,11 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&layout=compact&theme=dark&hide_title=false&custom_title=Please%20be%20patient.%20New%20Coder)](https://github.com/0736b/) -->
 
-<pre>
+<!-- <pre> -->
 <!-- <samp> -->
 <!-- <kbd>boom@Re-PC:/0736b$</kbd> readmefetch -->
 <!-- </samp> -->
-<p align="">
+<!-- <p align="">
  ▄▄▄▄    ▒█████   ▒█████   ███▄ ▄███▓     <samp>0736b@github</samp>
 ▓█████▄ ▒██▒  ██▒▒██▒  ██▒▓██▒▀█▀ ██▒     <samp>------------</samp>
 ▒██▒ ▄██▒██░  ██▒▒██░  ██▒▓██    ▓██░     <samp>Country: Thailand</samp>
@@ -37,9 +47,10 @@
 ▒░▒   ░   ░ ▒ ▒░   ░ ▒ ▒░ ░  ░      ░     <samp>Interests: Web Development, Reverse Engineering Software</samp>
  ░    ░ ░ ░ ░ ▒  ░ ░ ░ ▒  ░      ░        
  ░          ░ ░      ░ ░         ░        
-      ░                                   </p><p align="center"><img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p>
+      ░                                   </p> -->
+<!--       <p align="center"><img width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p> -->
 <!-- <kbd>boom@Re-PC:/0736b$</kbd> █ -->
-</pre>
+<!-- </pre> -->
 <!-- ![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=151515&height=50) -->
 <!-- ![GitHub metrics](https://metrics.lecoq.io/0736b)   -->
 <!-- ![Profile views](https://gpvc.arturio.dev/0736b)   -->
