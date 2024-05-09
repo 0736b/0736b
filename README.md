@@ -1,6 +1,6 @@
 <div align="center">
  <h2><b>Hello! I'm <a href="https://0736b.github.io" target="_blank">Thanawat Bumpengpun</a></b></h2>
- <p>A year three <b>computer engineering student</b> at <b>Chiang Mai University</b>.</p>
+<!--  <p>A year three <b>computer engineering student</b> at <b>Chiang Mai University</b>.</p> -->
  <p>I love <b>developing software</b> that makes life easier. Love the <b>aesthetics</b> of the <b>user interface</b> and <b>great user experience</b>.<br> In my free time, I also like to <b>reverse engineer software</b> to study how it works.</p>
 </div>
 
