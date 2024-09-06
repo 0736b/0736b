@@ -1,12 +1,13 @@
+<br>
 <div align="center">
- <h2><b>Hello! I'm <a href="https://0736b.github.io" target="_blank">Thanawat Bumpengpun</a></b></h2>
 <!--  <p>A year three <b>computer engineering student</b> at <b>Chiang Mai University</b>.</p> -->
- <p>I love <b>developing software</b> that makes life easier. Love the <b>aesthetics</b> of the <b>user interface</b> and <b>great user experience</b>.<br> In my free time, I also like to <b>reverse engineer software</b> to study how it works.</p>
+ <p>I love <b>developing software</b> that makes life easier. Love the <b>aesthetics</b> of the <b>user interface</b> and <b>great user experience</b>.</p>
 </div>
 
 <p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0736b&langs_count=10&layout=compact&theme=dark&hide_title=false&custom_title=ขออภัย%20มือใหม่หัดโค้ด"></p>
+
 <div align="center">
- <p><b>see more</b> @ <a href="https://0736b.github.io"><b>0736b.github.io</b></a></p>
+ <p>In my free time, I also like to <b>reverse engineer software</b> to study how it works.</p>
 </div>
 <!-- ![](cat.gif) -->
 
